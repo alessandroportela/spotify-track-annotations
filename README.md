@@ -1,0 +1,1 @@
+Script not yet ready - intention is this will allow quick pull of a Spotify playlist's tracklist info and then dump that into a Google Sheet (where the user can then add annotations to the songs as they please :))
